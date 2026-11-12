@@ -1,7 +1,4 @@
-
-<h1 align="center"> v1hu </h1>
-
-<h3 align="center">Desenvolvedor em formação 💻</h3>
+<h1 align="center">Desenvolvedor em formação 💻</h1>
 
 ---
 
