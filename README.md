@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**v1hu/v1hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> v1hu </h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Desenvolvedor em formação 💻</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+
+- 📚 Estudando HTML5 e CSS3
+- 💻 Aprendendo desenvolvimento web
+- 🎯 Construindo projetos e aprimorando minhas habilidades
+- 🐍 Pretendo estudar Python futuramente
+
+### 🛠️ Tecnologias em estudo
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</div>
+
+### 📂 Projetos
+
+Confira meus projetos:
+
+- [Projeto Cordel](https://v1hu.github.io/projeto-cordel)
+- [Projeto Android](https://v1hu.github.io/projeto-android)
+
+---
+
+### 📫 Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v1hu)
