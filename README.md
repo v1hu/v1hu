@@ -8,7 +8,7 @@
 - 💻 Aprendendo desenvolvimento Fullstack ;
 - 🎯 Construindo projetos e aprimorando minhas habilidades.
 
-### 🛠️ Tecnologias em estudo
+###                                  🛠️ Tecnologias em estudo
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
