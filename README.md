@@ -7,10 +7,9 @@
 
 ### 🚀 Sobre mim
 
-- 📚 Estudando HTML5 e CSS3
-- 💻 Aprendendo desenvolvimento web
-- 🎯 Construindo projetos e aprimorando minhas habilidades
-- 🐍 Pretendo estudar Python futuramente
+- 📚 Estudando HTML5 e CSS3 / 🐍 Python / 📜 Javascript ;
+- 💻 Aprendendo desenvolvimento Fullstack ;
+- 🎯 Construindo projetos e aprimorando minhas habilidades.
 
 ### 🛠️ Tecnologias em estudo
 
@@ -19,6 +18,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
 ### 📂 Projetos
