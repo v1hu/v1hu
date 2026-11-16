@@ -1,11 +1,11 @@
-<h1 align="center">Desenvolvedor FullStack 💻</h1>
+<h1 align="center"> FullStack 💻</h1>
 
 ---
 
 ### 🚀 Sobre mim
 
 - 📚 HTML5 CSS3 / 🐍 Python / 📜 Javascript ;
-- 💻 Desenvolvimento Fullstack;
+- 💻 Fullstack;
 - 🎯 Repositório de Estudo.
 
 ###                                  🛠️ Tecnologias em estudo
