@@ -27,6 +27,7 @@ Confira meus projetos:
 
 - [Projeto Cordel](https://v1hu.github.io/projeto-cordel)
 - [Projeto Android](https://v1hu.github.io/projeto-android)
+- [Projeto Redes Sociais](https://v1hu.github.io/projeto-social/)
 
 ---
 
