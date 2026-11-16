@@ -1,12 +1,12 @@
-<h1 align="center">Desenvolvedor em formação 💻</h1>
+<h1 align="center">Desenvolvedor FullStack 💻</h1>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 📚 Estudando HTML5 e CSS3 / 🐍 Python / 📜 Javascript ;
-- 💻 Aprendendo desenvolvimento Fullstack ;
-- 🎯 Construindo projetos e aprimorando minhas habilidades.
+- 📚 HTML5 CSS3 / 🐍 Python / 📜 Javascript ;
+- 💻 Desenvolvimento Fullstack;
+- 🎯 Repositório de Estudo.
 
 ###                                  🛠️ Tecnologias em estudo
 
