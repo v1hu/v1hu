@@ -1,4 +1,4 @@
-<h1 align="center"> Repositório de estudos Full Stack 💻</h1>
+<h1 align="center"> Repositório Full Stack Developer 💻</h1>
 
 
 
