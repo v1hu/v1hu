@@ -1,14 +1,6 @@
-<h1 align="center"> FullStack 💻</h1>
+<h1 align="center"> Repositório de estudos Full Stack 💻</h1>
 
----
 
-### 🚀 Objetivos:
-
-- 📚 HTML5 CSS3 / 🐍 Python / 📜 Javascript ;
-- 💻 Fullstack;
-- 🎯 Repositório de Estudo.
-
-###                                  🛠️ Ferramentas:
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,7 +15,6 @@
 
 ### 📂 Projetos
 
-Confira meus projetos:
 
 - [Projeto Cordel](https://v1hu.github.io/projeto-cordel)
 - [Projeto Android](https://v1hu.github.io/projeto-android)
